@@ -103,7 +103,7 @@ Follow these steps to install and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/TishaniDZ/todo-list-app.git
 
 
 2. **Navigate Directory**
